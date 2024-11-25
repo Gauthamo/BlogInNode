@@ -1,0 +1,44 @@
+#banner {
+    text-align: center;
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header-box{
+    margin-right: 5px;
+}
+
+#options-box1{
+    padding-right: 5px;
+}
+
+.newPost {
+    
+    text-align: center;
+    margin: auto;
+    width: 1296px;
+
+}
+
+#textArea {
+    margin-bottom: 20px;
+}
+
+#header-box1{
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#about-me {
+    margin: auto;
+    width: 1296px;
+    text-align: center;
+}
+
+#postBox {
+    margin: auto;
+    text-align: center;
+    width: 1296px;
+    padding-left: 0px;
+}
